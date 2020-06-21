@@ -1,0 +1,54 @@
+
+/*===================================BODY SECTION==========================================*/
+
+body	{
+		color:black;
+		font-size:18px;
+		font-family:Helvetica,Geneva;
+		font-weight:normal;
+	}
+		
+/*====================================HEADER SECTION=======================================*/
+h1	{
+		background-color:black;
+		color:white;
+	
+	}
+h2	{
+		
+		border:2px solid black;
+	
+	}
+h3,h4	{
+		border-bottom:2px solid black;
+	}
+
+/*==================================PARA SECTION=============================================*/
+p,div	{
+		color:green;
+	}
+
+/*=================================CLASS SECTION=============================================*/
+.main	{
+		color:orange;
+	}
+p.main	{
+		font-family:Geneva;
+
+.underline	{
+		border-top:2px solid black;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
